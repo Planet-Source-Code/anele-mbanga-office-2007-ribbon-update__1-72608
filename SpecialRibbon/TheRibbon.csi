@@ -1,0 +1,16 @@
+[History]
+B0=TheRibbon/Form1/Command1_Click
+B1=TheRibbon/ACPRibbon/ButtonRibbon_Click
+B2=TheRibbon/ACPRibbon/AddCircleMenu
+B3=TheRibbon/ACPRibbon/TBMouse_Click
+B4=TheRibbon/ACPRibbon/ButMouse_Click
+B5=TheRibbon/Form1/ACPRibbon1_MainMenuClick
+B6=TheRibbon/Form1/ACPRibbon1_ButtonClick
+B7=TheRibbon/ACPRibbon
+B8=TheRibbon/ACPRibbon/UserControl_Initialize
+B9=TheRibbon/ACPRibbon/FreezeWindow
+B10=TheRibbon/ACPRibbon/AddTopButtonMenu
+B11=TheRibbon/ACPRibbon/TextBoxHiLite
+B12=TheRibbon/ACPRibbon/AddButtonMenu
+B13=TheRibbon/ACPRibbon/ResizeLogo
+B14=TheRibbon/ACPRibbon/Refresh
